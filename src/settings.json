@@ -1,0 +1,80 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover limitless opportunities with Lol - Your partner in innovation and growth.",
+        "title": "Unlock the Power of Bost: Elevate Your Potential"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover limitless opportunities with Lol - Your partner in innovation and growth.",
+        "title": "Unlock the Power of Bost: Elevate Your Potential"
+      }
+    },
+    {
+      "id": "HeroSplitWithImage",
+      "variables": {
+        "buttonText": "Get started now",
+        "linkText": "Discover more",
+        "subtitle": "Discover insights with our cutting-edge analytics tailored to boost your business. Experience unparalleled growth with actionable data.",
+        "title": "Data to supercharge your online presence"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover limitless opportunities with Lol - Your partner in innovation and growth.",
+        "title": "Unlock the Power of Bost: Elevate Your Potential"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover limitless opportunities with Lol - Your partner in innovation and growth.",
+        "title": "Unlock the Power of Bost: Elevate Your Potential"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover limitless opportunities with Lol - Your partner in innovation and growth.",
+        "title": "Unlock the Power of Bost: Elevate Your Potential"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover limitless opportunities with Lol - Your partner in innovation and growth.",
+        "title": "Unlock the Power of Bost: Elevate Your Potential"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover limitless opportunities with Lol - Your partner in innovation and growth.",
+        "title": "Unlock the Power of Bost: Elevate Your Potential"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover limitless opportunities with Lol - Your partner in innovation and growth.",
+        "title": "Unlock the Power of Bost: Elevate Your Potential"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover limitless opportunities with Lol - Your partner in innovation and growth.",
+        "title": "Unlock the Power of Bost: Elevate Your Potential"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unlock the Power of Bost: Elevate Your Potential",
+  "subtitle": "Discover limitless opportunities with Lol - Your partner in innovation and growth."
+}
